@@ -16,6 +16,7 @@
   "permissions": [
     "activeTab"
   ],
+  "web_accessible_resources": ["*.jpg","*.JPG","*.jpeg","*.JPEG"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
